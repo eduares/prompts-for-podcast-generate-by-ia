@@ -15,7 +15,7 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > Fiz todo projeto baseado na Bootcamp de inteligência artificial Generativa da DIO, para mais informações:
+ > Este projeto é um desafio da DIO referente ao bootcamp "Universia - Fundamentos de IA Generativa". Para mais informações, Basta acessar este link:
  > https://github.com/felipeAguiarCode/prompts-for-podcast-generate-by-ia
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
@@ -65,7 +65,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/felipe-exe">
+        href="https://www.linkedin.com/in/eduardo-s-150567156/">
         LinkedIn
     </a>
     &nbsp;|&nbsp;</p>
